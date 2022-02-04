@@ -8,3 +8,5 @@ def Calculate_negotiations():
 
 for x in Calculate_negotiations():
     print("We're on negotiation number ", x)
+
+Calculate_negotiations()
