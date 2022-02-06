@@ -1,4 +1,4 @@
-# A simple formula for explaining how many Brexit negotiations the United Kingdom will have
+# A simple formula to forecast how many Brexit negotiations the United Kingdom will have
 
 def Calculate_negotiations():
     x = 1
